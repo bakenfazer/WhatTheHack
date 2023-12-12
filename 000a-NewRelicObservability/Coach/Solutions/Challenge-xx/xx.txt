@@ -1,0 +1,1 @@
+use these folders to store files for full solutions. like "alert-full-solution.bicep" for example
